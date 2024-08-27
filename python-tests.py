@@ -15,3 +15,5 @@ class DummyTests(TestCase):
     def thirdTestMethos(self, object_value: str):
         return object_value
       
+    def super_extra_method(self, init_value: str):
+        return init_value
