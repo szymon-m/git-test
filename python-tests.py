@@ -12,11 +12,11 @@ class DummyTests(TestCase):
         some_int = 1
         return some_int
   
-    def thirdTestMethos(self, object_value: str):
+    def thirdTestMethos(self, object_value: str, other_numeric: int):
         return object_value
       
     def super_extra_method(self, init_value: str):
         return init_value
         
-    def feat_A_test_method(self, initiate: str):
+    def feat_A_test_method(self, initiate: str, other_numeric: int):
         return initiate
