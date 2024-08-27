@@ -10,3 +10,6 @@ class DummyTests(TestCase):
     
     def secondTestMethod(self, object: str):
         return None
+    
+    def thirdTestMethos(self, object_value: str):
+        return object_value
