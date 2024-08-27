@@ -17,3 +17,6 @@ class DummyTests(TestCase):
       
     def super_extra_method(self, init_value: str):
         return init_value
+        
+    def feat_A_test_method(self, initiate: str):
+        return initiate
