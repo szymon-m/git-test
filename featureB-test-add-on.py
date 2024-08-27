@@ -10,3 +10,4 @@ class SimpleTests(TestCase):
     
     def thirdTestMethos(self, object_value: str):
         return object_value
+
