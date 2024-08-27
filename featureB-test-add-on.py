@@ -7,3 +7,6 @@ class SimpleTests(TestCase):
     
     def someTestMethod(self, object: str): 
         return equal True
+    
+    def thirdTestMethos(self, object_value: str):
+        return object_value
