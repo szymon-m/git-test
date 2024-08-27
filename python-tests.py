@@ -11,3 +11,7 @@ class DummyTests(TestCase):
     def secondTestMethod(self, object: str, numerical_value: int):
         some_int = 1
         return some_int
+  
+    def thirdTestMethos(self, object_value: str):
+        return object_value
+      
